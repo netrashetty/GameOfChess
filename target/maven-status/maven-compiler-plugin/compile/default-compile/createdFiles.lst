@@ -1,0 +1,11 @@
+com/opentable/gameofchess/Position.class
+com/opentable/gameofchess/State.class
+com/opentable/gameofchess/BoardSnapshot.class
+com/opentable/gameofchess/Move.class
+com/opentable/gameofchess/MoveIntent.class
+com/opentable/gameofchess/Piece.class
+com/opentable/gameofchess/Move$1.class
+com/opentable/gameofchess/Colour.class
+com/opentable/gameofchess/Player.class
+com/opentable/gameofchess/Board.class
+com/opentable/gameofchess/PieceType.class
